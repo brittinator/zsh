@@ -12,4 +12,6 @@
   * https://tmux.github.io/
 
   ### Useful Links
-  * https://coderwall.com/p/t7a-tq/change-terminal-color-when-ssh-from-os-x
+  * Blog post about how to make and change terminal color prompt when ssh into another machine [here](https://coderwall.com/p/t7a-tq/change-terminal-color-when-ssh-from-os-x)
+  * [ZSH wiki](http://zshwiki.org/home/)
+  * Blog post on tools for productivity [here](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/)
