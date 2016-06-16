@@ -10,3 +10,6 @@
   * https://www.iterm2.com/
 * **tmux** to have mutiple terminal windows with 1 prompt
   * https://tmux.github.io/
+
+  ### Useful Links
+  * https://coderwall.com/p/t7a-tq/change-terminal-color-when-ssh-from-os-x

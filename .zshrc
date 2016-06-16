@@ -79,7 +79,10 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-export PS1="\$PWD 🦄  $"
+# Change emoji to show exit status
+# unicorn for sucess, poo emojii for all other codes
+# http://www.tldp.org/LDP/abs/html/exitcodes.html
+PS1="%F{51}\$PWD %(?.🦄.💩)  $%f"
 
 export EDITOR=vim
 
