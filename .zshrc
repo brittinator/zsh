@@ -1,11 +1,20 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/$USERNAME/.oh-my-zsh
 
+# !!! IMPORTANT NOTE: if you set a theme here, you may need to move the prompt into that theme's file:
+# ex: in pygmalion
+# exit_status = '%F{51} %(?.🦄.💩) '
+
+# PROMPT="base_prompt$gitinfo$nl$exit_status$post_prompt"
+
+
+
+
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME=robbyrussell
+ZSH_THEME=pygmalion
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
